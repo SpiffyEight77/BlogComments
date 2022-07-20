@@ -1,2 +1,1 @@
-# BlogComments
-utterances in my blog
+# giscus
